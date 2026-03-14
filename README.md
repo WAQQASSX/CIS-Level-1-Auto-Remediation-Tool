@@ -1,6 +1,5 @@
 # CIS Level 1 Auto-Remediation Tool (Windows 10 & 11)
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-lightgrey.svg)
 ![Compliance](https://img.shields.io/badge/CIS%20Benchmark-v4.0.0%20Level%201-green.svg)
 
@@ -63,8 +62,3 @@ To bundle this script into a professional executable, use the `ps2exe` module:
 
 ## ⚠️ Disclaimer
 *This tool makes significant changes to Windows security settings. It is intended for use in enterprise or lab environments. **Always ensure you have a local administrator account and a full system backup before proceeding.***
-
----
-
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
